@@ -33,4 +33,6 @@ group :test do
   gem "webmock"
   gem "webdrivers"
   gem "i18n"
+
+  gem "http"
 end
